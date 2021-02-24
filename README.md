@@ -17,12 +17,13 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-
+![output](./static/img/1.png)
 
 ## WIREFRAME:
-
+![output](./static/img/2.png)
 
 ## PROTOTYPE:
-
+![output](./static/img/3.png)
 
 ## RESULT:
+Thus a website is designed for the chip manufacturing company and is hosted in the URL http://veeramalai.student.saveetha.in. HTML code is validated.
